@@ -10,6 +10,7 @@ function App() {
     <>
       <Testimonial title = "Our Students speaks for us"/>
       <Courses/>
+      <Footer/>
     </>
   );
 }
