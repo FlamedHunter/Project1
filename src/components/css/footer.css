@@ -133,6 +133,7 @@
     font-size: var(--footer-heading);
 }
 .footerlower ul{
+    list-style: none;
     align-items: center;
     display: flex;
     flex-wrap: row;

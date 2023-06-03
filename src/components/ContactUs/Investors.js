@@ -6,7 +6,7 @@ export default function Investors() {
         <div className='investorscontainer'>
             <div className='investorsgreenbox'></div>
             <div className='investorsimagebox'>
-                    <img className='investorsimage' src="https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2015/12/01/Pictures/_c34102da-9849-11e5-b4f4-1b7a09ed2cea.jpg" alt="" />
+                    <img className='investorsimage' src="https://uschamber-co.imgix.net/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fco-assets%2Fassets%2Fimages%2Fpitching-investors_2021-08-16-223955_uvni.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.0825&fp-y=0.2205&h=415&q=88&w=622&s=2414200334f375415b91eb011897387d" alt="" />
             </div>
             <div className='investorsinfo'>
                 <h2>Investors</h2>

@@ -19,7 +19,6 @@ export default function Footer() {
             <h3 className='footername'>
                 Morning Star
             </h3>
-
             <ul>
                 <li>
                     <a href="/" className='footerlowertxt footerlowertxtdesign'>Contact</a>
